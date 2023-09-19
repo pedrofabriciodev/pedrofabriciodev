@@ -1,3 +1,3 @@
 ### Hi there 👋
-- 🌱 I’m currently learning CSS, JAVASCRIPT, SQL, GIT, GITHUB
+- 🌱 I’m currently learning JAVA
 - 📫 How to reach me: @itskingofreal
