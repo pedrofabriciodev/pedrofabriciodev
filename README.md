@@ -12,6 +12,7 @@ Estou dedicado a aprender e constantemente estudando novas tecnologias, buscando
 - **Frameworks e Bibliotecas:** SpringBoot, React Native
 - **Banco de Dados:** MySql, PostgreSql
 - **Metodologias:** Scrum, Kanban
+- **Ferramentas:** Expo, Firebase
 
 ## Projetos em Destaque
 
@@ -20,20 +21,6 @@ Estou dedicado a aprender e constantemente estudando novas tecnologias, buscando
 Aplicativo mobile para realizar agendamento de horarios para serviçõs em salões de beleza  
 **Tecnologias Utilizadas:** JavaScript, ReactNative, Firebase, Expo  
 [Link para o Repositório](https://github.com/pedrofabriciodev/HairBeauty)
-
-### Experiência Profissional
-
-- **Desenvolvedor de Software Independente**
-  - **Projeto:** Agendamento de Horário
-    - Desenvolvi um aplicativo mobile para agendamento de horários em salões de beleza.
-    - **Responsabilidades:**
-      - Planejamento e arquitetura do sistema.
-      - Implementação da interface do usuário usando React Native.
-      - Integração com Firebase para armazenamento de dados e autenticação.
-      - Testes e depuração do aplicativo.
-    - **Tecnologias Utilizadas:** JavaScript, React Native, Firebase, Expo
-    - [Link para o Repositório](https://github.com/pedrofabriciodev/HairBeauty)
-  
 
 ## Educação
 
