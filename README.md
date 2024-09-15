@@ -22,9 +22,9 @@ Aplicativo mobile para realizar agendamento de horarios para serviçõs em salõ
 **Tecnologias Utilizadas:** JavaScript, ReactNative, Firebase, Expo  
 [Link para o Repositório](https://github.com/pedrofabriciodev/HairBeauty)  
 
-### Agendamento de Horario
+### Declaração de Gênero
 
-Aplicativo mobile para realizar auto declaração de genero  
+Aplicativo mobile para realizar auto declaração de gênero  
 **Tecnologias Utilizadas:** JavaScript,TypeScript, ReactNative, SQLite, Expo  
 [Link para o Repositório](https://github.com/pedrofabriciodev/Gender-Choose)
 
