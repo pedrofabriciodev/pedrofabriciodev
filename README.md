@@ -20,7 +20,13 @@ Estou dedicado a aprender e constantemente estudando novas tecnologias, buscando
 
 Aplicativo mobile para realizar agendamento de horarios para serviçõs em salões de beleza  
 **Tecnologias Utilizadas:** JavaScript, ReactNative, Firebase, Expo  
-[Link para o Repositório](https://github.com/pedrofabriciodev/HairBeauty)
+[Link para o Repositório](https://github.com/pedrofabriciodev/HairBeauty)  
+
+### Agendamento de Horario
+
+Aplicativo mobile para realizar auto declaração de genero  
+**Tecnologias Utilizadas:** JavaScript,TypeScript, ReactNative, SQLite, Expo  
+[Link para o Repositório](https://github.com/pedrofabriciodev/Gender-Choose)
 
 ## Educação
 
