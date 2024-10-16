@@ -40,5 +40,5 @@ Aplicativo mobile para realizar auto declaração de gênero
 
 ## Contato
 
-📧 [Seu Email](mailto:pedrofabriciodev@gmail.com)  
+📧 [Email](mailto:pedrofabriciodev@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/pedro-fabricio/)
