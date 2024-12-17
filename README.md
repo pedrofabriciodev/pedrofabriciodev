@@ -33,7 +33,7 @@ Aplicativo mobile para realizar auto declaração de gênero
 - **Bacharel** em **Engenharia de Software**
   - **Universidade:** Jala University
   - **Período:** 2024 - 2029
-  - 
+
 - **Tecnologo** em **Analise e Desenvolvimento de Sistemas**
   - **Universidade:** Uninassau
   - **Período:** 2023 - 2024
