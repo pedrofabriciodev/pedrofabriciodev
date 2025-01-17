@@ -8,11 +8,11 @@ Estou dedicado a aprender e constantemente estudando novas tecnologias, buscando
 
 ## Habilidades Técnicas
 
-- **Linguagens de Programação:** Java, JavaScript, TypeScript
+- **Linguagens de Programação:** Java, JavaScript, TypeScript, Php, Python
 - **Frameworks e Bibliotecas:** SpringBoot, React Native, React
 - **Banco de Dados:** MySql, PostgreSql, Sqlite
 - **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Expo, Firebase, Vite
+- **Ferramentas:** Expo, Firebase, Vite, Excel
 
 ## Projetos em Destaque
 
@@ -32,7 +32,7 @@ Aplicativo mobile para realizar auto declaração de gênero
 
 - **Bacharel** em **Engenharia de Software**
   - **Universidade:** Jala University
-  - **Período:** 2024 - 2029
+  - **Período:** 2025 - 2029
 
 - **Tecnologo** em **Analise e Desenvolvimento de Sistemas**
   - **Universidade:** Uninassau
