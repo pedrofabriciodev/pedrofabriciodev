@@ -22,11 +22,19 @@ Aplicativo mobile para realizar agendamento de horarios para serviçõs em salõ
 **Tecnologias Utilizadas:** JavaScript, ReactNative, Firebase, Expo  
 [Link para o Repositório](https://github.com/pedrofabriciodev/HairBeauty)  
 
+
+### Financia
+
+Aplicativo desenvolvido em React Native para gerenciamento e acompanhamento de contas financeiras, focado em simplicidade, praticidade e integração com autenticação segura    
+**Tecnologias Utilizadas:** TypeScript, ReactNative, Supabase, Expo, ExpoRouter  
+[Link para o Repositório](https://github.com/pedrofabriciodev/Financia)  
+
+
 ### Declaração de Gênero
 
 Aplicativo mobile para realizar auto declaração de gênero  
 **Tecnologias Utilizadas:** JavaScript,TypeScript, ReactNative, SQLite, Expo  
-[Link para o Repositório](https://github.com/pedrofabriciodev/Gender-Choose)
+[Link para o Repositório](https://github.com/pedrofabriciodev/Gender-Choose)  
 
 ## Educação
 
