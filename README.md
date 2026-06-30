@@ -1,42 +1,52 @@
-# Olá! Eu sou Pedro Fabricio 👋
+### Pedro Fabricio
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor de software apaixonado por criar soluções eficientes e inovadoras.
+Desenvolvedor Full Stack · Backend (Java/Spring Boot, Node.js/TypeScript) e Frontend (React, React Native)
 
-## Sobre Mim
+---
 
-Estou dedicado a aprender e constantemente estudando novas tecnologias, buscando as melhores formas de aplicá-las. Quero desenvolver minhas habilidades e avançar profissionalmente. Procuro uma oportunidade em um ambiente corporativo onde possa ganhar experiência prática e contribuir efetivamente.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,ts,js&perline=6" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,postgres,mysql,mongodb,docker,github&perline=6" />
+  </a>
+</p>
 
-## Habilidades Técnicas
+---
 
-- **Linguagens de Programação:** Java, JavaScript, TypeScript, Php, Python
-- **Frameworks e Bibliotecas:** SpringBoot, React Native, React
-- **Banco de Dados:** MySql, PostgreSql, Sqlite
-- **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Expo, Firebase, Vite, Excel
+### Experiência
 
-## Projetos em Destaque
+#### **Navelaw360** (2025-2026) 
 
-### Agendamento de Horario
+SaaS multi-tenant para escritórios de advocacia  
+**Tecnologias Utilizadas:** Node.js · Express · tRPC · TypeScript · React · PostgreSQL/Drizzle · Docker · PM2 · GitHub Actions · WhatsApp (Evolution API)
 
-Aplicativo mobile para realizar agendamento de horarios para serviçõs em salões de beleza  
-**Tecnologias Utilizadas:** JavaScript, ReactNative, Firebase, Expo  
-[Link para o Repositório](https://github.com/pedrofabriciodev/HairBeauty)  
+#### **API de Agendamentos** 
 
+Microsserviço de gerenciamento de horários e reservas  
+**Tecnologias Utilizadas:** Java 17 · Spring Boot · Spring Data JPA · PostgreSQL · Hibernate
 
-### Financia
+#### **Sistema de Pagamentos** 
 
-Aplicativo desenvolvido em React Native para gerenciamento e acompanhamento de contas financeiras, focado em simplicidade, praticidade e integração com autenticação segura    
-**Tecnologias Utilizadas:** TypeScript, ReactNative, Supabase, Expo, ExpoRouter  
-[Link para o Repositório](https://github.com/pedrofabriciodev/Financia)  
+Módulo de pagamentos para banco digital com Onion Architecture  
+**Tecnologias Utilizadas:** Java 17 · PostgreSQL
 
+#### **Sistema de Estoque para Vacinação** 
 
-### Declaração de Gênero
+Controle de estoque com MVC/DAO  
+**Tecnologias Utilizadas:** Java · PostgreSQL
 
-Aplicativo mobile para realizar auto declaração de gênero  
-**Tecnologias Utilizadas:** JavaScript,TypeScript, ReactNative, SQLite, Expo  
-[Link para o Repositório](https://github.com/pedrofabriciodev/Gender-Choose)  
+#### **Financia · HairBeauty · Gender-Choose** 
 
-## Educação
+Projetos mobile 
+**Tecnologias Utilizadas:** React Native · TypeScript · Supabase · Firebase · SQLite · Expo
+
+---
+
+### Educação
 
 - **Bacharel** em **Engenharia de Software**
   - **Universidade:** Jala University
@@ -50,7 +60,13 @@ Aplicativo mobile para realizar auto declaração de gênero
   - **Universidade:** Escola Tecnica Estadual Professor Lucilo Ávila Pessoa
   - **Período:** 2020 - 2022
 
-## Contato
+---
 
-📧 [Email](mailto:pedrofabriciodev@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/pedro-fabricio/)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=pedrofabriciodev&show_icons=true&hide_border=true&rank_icon=github" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pedrofabriciodev&layout=compact&hide_border=true" height="160"/>
+</p>
+
+---
+
+📧 pedrofabriciodev@gmail.com · [LinkedIn](https://linkedin.com/in/pedro-fabricio) · [Portfólio](https://pedrofabricio.vercel.app)
