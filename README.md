@@ -50,7 +50,7 @@ Projetos mobile
 
 - **Bacharel** em **Engenharia de Software**
   - **Universidade:** Jala University
-  - **Período:** 2025 - 2029
+  - **Período:** 2025 - 2028
 
 - **Tecnologo** em **Analise e Desenvolvimento de Sistemas**
   - **Universidade:** Uninassau
