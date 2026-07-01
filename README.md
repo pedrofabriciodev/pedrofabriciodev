@@ -41,7 +41,7 @@ Controle de estoque com MVC/DAO
 
 #### **Financia · HairBeauty · Gender-Choose** 
 
-Projetos mobile 
+Projetos mobile  
 **Tecnologias Utilizadas:** React Native · TypeScript · Supabase · Firebase · SQLite · Expo
 
 ---
@@ -63,8 +63,9 @@ Projetos mobile
 ---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=pedrofabriciodev&show_icons=true&hide_border=true&rank_icon=github" height="160"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pedrofabriciodev&layout=compact&hide_border=true" height="160"/>
+  <a href="https://github-stats-extended.vercel.app/api?username=pedrofabriciodev&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent">
+    <img src="https://github-stats-extended.vercel.app/api?username=pedrofabriciodev&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent" height="160"/>
+  </a>
 </p>
 
 ---
